@@ -44,7 +44,7 @@ h2::before {
   -webkit-text-stroke: 0vw #383d52;
   border-right: 2px solid #01fe87;
   overflow: hidden;
-  animation: animate 5s linear infinite;
+  animation: animate 3s linear infinite;
 }
 
 @keyframes animate {
